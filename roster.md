@@ -24,3 +24,5 @@
 |Sondre William Eslinger|Forward|Norwegian|Male|2010|
 |Christoffer Sorensen|Forward|Danish|Male|1995|
 |Timo Kunnas|Forward|Finnish|Male|1965|
+
+:switzerland:
