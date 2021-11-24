@@ -26,3 +26,5 @@
 |Timo Kunnas|Forward|Finnish|Male|1965|
 
 :switzerland:
+
+🇨🇦
