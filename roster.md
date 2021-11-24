@@ -3,7 +3,7 @@
 |Player|Position|Nationality|Gender|hockey player since| 
 |:-:|:-:|:-:|:-:|:-:|
 |Jamie Haynes|Goaltender|English|Male|2015|
-|Sander Virtanen Thaule||Goaltender|Male|Swedish|2015|
+|Sander Virtanen Thaule|Goaltender|Male|Swedish|2015|
 |Erik Hagen|Goaltender/Forward|:norway:|Male|2015|
 |Philipp Affolter|Defence|:switzerland: / :canada:|Male|1987|
 |Erik Aagenes|Defence|Norwegian|Male|1975|
