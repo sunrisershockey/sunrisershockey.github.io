@@ -1,7 +1,7 @@
 ## Stavanger Sunrisers 2021/2022
 
 |Player|Position|Nationality|Gender|hockey player since| 
-|:-:|:-:|:-:|:-:|
+|:-:|:-:|:-:|:-:|:-:|
 |Jamie Haynes|Goaltender|English|Male|2015|
 |Sander Virtanen Thaule|Goaltender|Male|Swedish|2015|
 |Erik Hagen|Goaltender/Forward|Norwegian|Male|2015|
