@@ -1,25 +1,26 @@
 ## Stavanger Sunrisers 2021/2022
 
-|Player|Position|Nationality|hockey player since| 
+|Player|Position|Nationality|Gender|hockey player since| 
 |:-:|:-:|:-:|:-:|
-|Philipp Affolter|Defence|Swiss / Canadian|1987|
-|Mark Ballard|Forward|Canadian|1995|
-|Evgeni Stoliarov|Forward|Russian|1980|
-|Jamie Haynes|Goaltender|English|2015|
-|Erik Hagen|Goaltender|Norwegian|2015|
-|Erik Aagenes|Defence|Norwegian|1975|
-|Arild Bokn|Forward|Norwegian|2015|
-|Olav Thorsberg|Defence|Norwegian|1985|
-|Jack Djupvik|Forward|Norwegian|2013|
-|Ross Leishman|Forward|Scottish|1995|
-|Petter Gralumstuen|Forward|Norwegian|2005|
-|Dan Bowlby|Defence|Scottish|2015|
-|Kim Åslund|Forward|Swedish|2015|
-|Sander Virtanen Thaule|Goaltender|Swedish|2015|
-|Tone Hatteland Lima|Forward|Norwegian|2015|
-|Andzelika Medvedeva|Forward|Lithuanian|2015|
-|Ronny Skalle|Defence|Norwegian|2005|
-|Willy Skjaeveland|Forward|Norwegian|2015|
-|Sondre William Eslinger|Forward|Norwegian|2010|
-|Christoffer Sorensen|Forward|Danish|1995|
-|Timo Kunnas|Forward|Finnish|1965|
+|Jamie Haynes|Goaltender|English|Male|2015|
+|Sander Virtanen Thaule|Goaltender|Male|Swedish|2015|
+|Erik Hagen|Goaltender/Forward|Norwegian|Male|2015|
+|Philipp Affolter|Defence|Swiss / Canadian|Male|1987|
+|Erik Aagenes|Defence|Norwegian|Male|1975|
+|Gunnar Nyberg|Defence|Swedish|Male|1965|
+|Dan Bowlby|Defence|Scottish|Male|2015|
+|Olav Thorsberg|Defence|Norwegian|Male|1985|
+|Ronny Skalle|Defence|Norwegian|Male|2005|
+|Tone Hatteland Lima|Forward|Norwegian|Male|2015|
+|Andzelika Medvedeva|Forward|Lithuanian|Male|2015|
+|Mark Ballard|Forward|Canadian||Male|1995|
+|Evgeni Stoliarov|Forward|Russian|Male|1980|
+|Arild Bokn|Forward|Norwegian|Male|2015|
+|Jack Djupvik|Forward|Norwegian|Male|2013|
+|Ross Leishman|Forward|Scottish|Male|1995|
+|Petter Gralumstuen|Forward|Norwegian|Male|2005|
+|Kim Åslund|Forward|Swedish|Male|2015|
+|Willy Skjaeveland|Forward|Norwegian|Male|2015|
+|Sondre William Eslinger|Forward|Norwegian|Male|2010|
+|Christoffer Sorensen|Forward|Danish|Male|1995|
+|Timo Kunnas|Forward|Finnish|Male|1965|
