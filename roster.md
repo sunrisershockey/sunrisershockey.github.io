@@ -22,3 +22,4 @@
 |Willy Skjaeveland|Forward|Norwegian|2015|
 |Sondre William Eslinger|Forward|Norwegian|2010|
 |Christoffer Sorensen|Forward|Danish|1995|
+|Timo Kunnas|Forward|Finnish|1965|
