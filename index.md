@@ -1,3 +1,3 @@
 We are an independent senior level hockey team playing in Stavanger, Norway.
 
-<img src="https://raw.githubusercontent.com/sunrisershockey/sunrisershockey.github.io/main/sunrisers.jpg">
+<img title="Stavanger Sunrisers, established in 2004" src="https://raw.githubusercontent.com/sunrisershockey/sunrisershockey.github.io/main/sunrisers.jpg">
