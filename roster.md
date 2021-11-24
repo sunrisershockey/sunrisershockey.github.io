@@ -3,12 +3,12 @@
 |Player|Position|Nationality|Gender|hockey player since| 
 |:-:|:-:|:-:|:-:|:-:|
 |Jamie Haynes|Goaltender|English|Male|2015|
-|Sander Virtanen Thaule|Goaltender|Male|Swedish|2015|
+|Sander Virtanen Thaule||Goaltender|Male|Swedish|2015|
 |Erik Hagen|Goaltender/Forward|:norway:|Male|2015|
 |Philipp Affolter|Defence|:switzerland: / :canada:|Male|1987|
 |Erik Aagenes|Defence|Norwegian|Male|1975|
-|Gunnar Nyberg|Defence|Swedish|Male|1965|
-|Dan Bowlby|Defence|Scottish|Male|2015|
+|Gunnar Nyberg|Defence|:se:|Male|1965|
+|Dan Bowlby|Defence|:gb:|Male|2015|
 |Olav Thorsberg|Defence|Norwegian|Male|1985|
 |Ronny Skalle|Defence|Norwegian|Male|2005|
 |Tone Hatteland Lima|Forward|Norwegian|Male|2015|
