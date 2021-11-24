@@ -35,6 +35,8 @@ header_pages:
   - statistics.md
   - archive.md
   - games.md
+  
+google_analytics: G-GWDT6Z2QE4
 
 titles_from_headings:
   strip_title: true
