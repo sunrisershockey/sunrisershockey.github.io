@@ -31,8 +31,8 @@ plugins:
   - jekyll-sitemap
   
 header_pages:
-  - roster.html
-  - statistics.html
+  - roster.md
+  - statistics.md
   - archive.md
   - games.md
 
