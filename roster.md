@@ -1,4 +1,4 @@
-##Stavanger Sunrisers
+## Stavanger Sunrisers
 
 |Player|Position|Nationality|hockey experience since| 
 |:-:|:-:|:-:|:-:|
