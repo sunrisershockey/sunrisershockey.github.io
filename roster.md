@@ -11,7 +11,7 @@
 |Dan Bowlby|Defence|:gb:|Male|2015|
 |Olav Thorsberg|Defence|Norwegian|Male|1985|
 |Ronny Skalle|Defence|Norwegian|Male|2005|
-|Tone Hatteland Lima|Forward|Norwegian|Male|2015|
+|Tone Hatteland Lima|Forward|Norwegian|:woman:|2015|
 |Andzelika Medvedeva|Forward|Lithuanian|Male|2015|
 |Mark Ballard|Forward|Canadian|Male|1995|
 |Evgeni Stoliarov|Forward|Russian|Male|1980|
