@@ -29,6 +29,12 @@ kramdown:
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+  
+header_pages:
+  - roster.html
+  - statistics.html
+  - archive.md
+  - games.md
 
 titles_from_headings:
   strip_title: true
