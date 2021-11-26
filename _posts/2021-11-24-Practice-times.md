@@ -1,4 +1,3 @@
-## Generic Info
 We welcome all players of all skill levels and gender, however all players must have full hockey equipment and have paid their annual fee or their drop in fee of 50nok / session.
 
 
