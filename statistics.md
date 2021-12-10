@@ -1,8 +1,6 @@
 ## Statistics
 
-### 2021-2022
-
-### Players
+### 2021/2022 Players
 |Player|Postion|Games Played|Goals|Assists|Points|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |Philipp Affolter|Defence|0|0|0|0|
