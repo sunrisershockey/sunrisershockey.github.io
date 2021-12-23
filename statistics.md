@@ -2,6 +2,8 @@
 
 ### 2021/2022 Players
 
+* All games have been cancelled so far in 2021 due to covid and hence no statistics yet.
+
 |Player|Position|Games Played|Goals|Assists|Points|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |Philipp Affolter|Defence|0|0|0|0|
