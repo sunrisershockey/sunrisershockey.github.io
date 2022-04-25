@@ -1,8 +1,8 @@
 ## Statistics
 
-### 2021/2022 Players
+### 2022 Senior Cup statistics 
 
-2022 Senior Cup statistics
+#### Players
 
 |Player|Position|Games Played|Goals|Assists|Points|
 |:-:|:-:|:-:|:-:|:-:|:-:|
@@ -23,7 +23,7 @@
 
 *Extended Roster
 
-### Goalies
+#### Goalies
 
 |Player|Games Played|Shots|Goals Against|GAA|Save %|
 |:-:|:-:|:-:|:-:|:-:|:-:|
