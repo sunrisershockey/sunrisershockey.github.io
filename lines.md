@@ -10,7 +10,7 @@
 |:-:|:-:|
 |Philipp Affolter|Gunnar Nyberg|
 
-|Forward|Forward|Froward|
+|Forward|Forward|Forward|
 |:-:|:-:|:-:|
 |Christoffer Sørensen|Mark Ballard|Kim Åslund|
 
@@ -20,7 +20,7 @@
 |:-:|:-:|
 |Fredrik Lund|Erik Aagenes|
 
-|Forward|Forward|Froward|
+|Forward|Forward|Forward|
 |:-:|:-:|:-:|
 |Tone Hatteland Lima|Arild Bokn|Petter Grålumstuen|
 
@@ -30,6 +30,6 @@
 |:-:|:-:|
 |Olav Thorsberg|Ronny Skalle|
 
-|Forward|Forward|Froward|
+|Forward|Forward|Forward|
 |:-:|:-:|:-:|
 |Stig-Atle Simenstad|Petter Nyheim|Ståle Rønningen|
