@@ -28,8 +28,8 @@
 
 |Defence|Defence|
 |:-:|:-:|
-|Olav Thorsberg|Ronny Skalle|
+|Ståle Rønningen|Ronny Skalle|
 
 |Forward|Forward|Forward|
 |:-:|:-:|:-:|
-|Stig-Atle Simenstad|Petter Nyheim|Ståle Rønningen|
+|Stig-Atle Simenstad|Petter Nyheim|Olav Thorsberg|
