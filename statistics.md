@@ -20,6 +20,7 @@
 |Christoffer Sørensen|Forward|0|0|0|0|
 |*Stig-Atle Simenstad|Forward|0|0|0|0|
 |*Ståle Rønningen|Forward|0|0|0|0|
+|*Petter Nyheim|Forward|0|0|0|0|
 
 *Extended Roster
 
