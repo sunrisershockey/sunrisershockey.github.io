@@ -33,7 +33,6 @@ plugins:
 header_pages:
   - roster.md
   - statistics.md
-  - archive.md
   - lines.md
   
 google_analytics: G-GWDT6Z2QE4
