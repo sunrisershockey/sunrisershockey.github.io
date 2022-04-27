@@ -1,7 +1,5 @@
 ## Lines
 
-2022 Senior Cup
-
 |Goalie|
 |:-:|
 |Sander Virtanen Thaule|
