@@ -17,6 +17,7 @@
 |Christoffer Sørensen|Mark Ballard|Kim Åslund|
 
 ### Line2
+
 |Defence|Defence|
 |:-:|:-:|
 |Fredrik Lund|Erik Aagenes|
@@ -26,6 +27,7 @@
 |Tone Hatteland Lima|Arild Bokn|Petter Grålumstuen|
 
 ### Line3
+
 |Defence|Defence|
 |:-:|:-:|
 |Olav Thorsberg|Ronny Skalle|
