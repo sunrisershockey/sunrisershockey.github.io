@@ -4,7 +4,7 @@
 |:-:|
 |Sander Virtanen Thaule|
 
-### Line1
+### Line 1
 
 |Defence|Defence|
 |:-:|:-:|
@@ -12,9 +12,9 @@
 
 |Forward|Forward|Forward|
 |:-:|:-:|:-:|
-|Christoffer Sørensen|Eivind Fjeld|Kim Åslund|
+|Christoffer Sørensen|Petter Nyheim (FR)<br>Eivind Fjeld (SA)|Kim Åslund|
 
-### Line2
+### Line 2
 
 |Defence|Defence|
 |:-:|:-:|
@@ -24,7 +24,7 @@
 |:-:|:-:|:-:|
 |Tone Hatteland Lima|Arild Bokn|Petter Grålumstuen|
 
-### Line3
+### Line 3
 
 |Defence|Defence|
 |:-:|:-:|
@@ -32,4 +32,4 @@
 
 |Forward|Forward|Forward|
 |:-:|:-:|:-:|
-|Stig-Atle Simenstad|Petter Nyheim|Olav Thorsberg|
+|Stig-Atle Simenstad|Olav Thorsberg (FR)<br>Petter Nyheim (SA)|Per Brusveen|
