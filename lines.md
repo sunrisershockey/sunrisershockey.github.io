@@ -12,7 +12,7 @@
 
 |Forward|Forward|Forward|
 |:-:|:-:|:-:|
-|Christoffer Sørensen|Mark Ballard|Kim Åslund|
+|Christoffer Sørensen|Eivind Fjeld|Kim Åslund|
 
 ### Line2
 
