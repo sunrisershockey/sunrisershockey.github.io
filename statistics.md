@@ -18,10 +18,10 @@
 |Kim Åslund|Forward|2|0|3|3|
 |Christoffer Sørensen|Forward|2|2|0|2|
 |*Ståle Rønningen|Defence|2|0|0|0|
-|*Stig-Atle Simenstad|Forward|2|1|0|0|
+|*Stig-Atle Simenstad|Forward|2|1|0|1|
 |*Petter Nyheim|Forward|2|2|0|2|
 |*Eivind Fjeld|Forward|0|0|0|0|
-|*Per Brusveen|Forward|2|0|1|0|
+|*Per Brusveen|Forward|2|0|1|1|
 
 *Extended Roster
 
