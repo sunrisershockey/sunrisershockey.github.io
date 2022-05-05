@@ -9,10 +9,10 @@ Sunrisers 1 - AkerBP 3
 
 ### Standings
 |Team|Games|Wins|Losses|Goals For|Goals Against|Goal Diff|Points|
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|STOKKA|5|4|0|1|20|4|16|12|
-|SPOILERS|5|4|0|1|13|12|1|12|
-|GAMLE BERGEN|5|3|0|2|15|11|4|9|
-|SUNRISERS|5|3|0|2|13|9|4|9|
-|AKER BP|1|5|1|0|4|7|14|7|3|
-|OLE SAN|5|0|0|5|5|23|18|0|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-§
+|STOKKA|5|4|1|20|4|16|12|
+|SPOILERS|5|4|1|13|12|1|12|
+|GAMLE BERGEN|5|3|2|15|11|4|9|
+|SUNRISERS|5|3|2|13|9|4|9|
+|AKER BP|1|5|1|4|7|14|7|3|
+|OLE SAN|5|0|5|5|23|18|0|
