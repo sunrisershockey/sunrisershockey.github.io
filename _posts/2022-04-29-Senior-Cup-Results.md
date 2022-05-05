@@ -19,6 +19,7 @@ Sunrisers 0 - Gamle Bergen 3
 [Sunrisers Statistics](https://github.com/sunrisershockey/sunrisershockey.github.io/blob/main/statistics.md)
 
 ### Standings
+
 |Team|Games|Wins|Losses|Goals For|Goals Against|Goal Diff|Points|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |STOKKA|5|4|1|20|4|16|12|
