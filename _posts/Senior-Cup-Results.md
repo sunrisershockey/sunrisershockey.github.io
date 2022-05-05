@@ -10,9 +10,13 @@ Sunrisers 3 - AkerBP 2
 
 Sunrisers 6 - Ole San Jose 0
 
+Sunrisers 1 - Spoilers 3
+
 Sunrisers 0 - Gamle Bergen 3
 
 *Quarterfinal: Sunrisers 1 - AkerBP 3
+
+[Sunrisers Statistics](https://github.com/sunrisershockey/sunrisershockey.github.io/blob/main/statistics.md)
 
 ### Standings
 |Team|Games|Wins|Losses|Goals For|Goals Against|Goal Diff|Points|
