@@ -1,4 +1,6 @@
-The Sunrisers started strong with 3 straight wins and one loss in the prelims and bowed out to a well organized AkerBP team in the quarterfinals to finish the season. Win or loose we all had fun and look forwward to next seasons events.
+The Sunrisers started strong with 3 straight wins and one loss in the prelims and bowed out to a well organized AkerBP team in the quarterfinals to finish the season. Win or loose we all had fun and look forward to next seasons events.
+
+The Sunrisers congratulate Gamle Bergen with the win in the finals against Stokka!
 
 ### Results
 
