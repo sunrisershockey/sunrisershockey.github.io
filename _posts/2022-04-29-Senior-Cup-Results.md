@@ -16,7 +16,7 @@ Sunrisers 0 - Gamle Bergen 3
 
 *Quarterfinal: Sunrisers 1 - AkerBP 3
 
-[Sunrisers Statistics](https://github.com/sunrisershockey/sunrisershockey.github.io/blob/main/statistics.md)
+[Sunrisers Statistics](https://sunrisershockey.github.io/statistics.html)
 
 ### Standings
 
