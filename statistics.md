@@ -17,7 +17,7 @@
 |Petter Grålumstuen|Forward|6|0|0|0|
 |Kim Åslund|Forward|6|0|3|3|
 |Christoffer Sørensen|Forward|6|4|0|4|
-|Eivind Fjeld|Forward|3|1|0|1|
+|Eivind Fjeld|Forward|4|1|0|1|
 |*Ståle Rønningen|Defence|6|0|1|1|
 |*Stig-Atle Simenstad|Defence|6|2|1|3|
 |*Petter Nyheim|Forward|6|4|2|6|
