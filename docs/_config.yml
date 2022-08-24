@@ -18,7 +18,7 @@ facebook_username: "groups/27190567208"
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
-theme: "jekyll-theme-leap-day"
+theme: jekyll-theme-leap-day
 
 rss: rss
 
