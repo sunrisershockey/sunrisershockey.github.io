@@ -17,7 +17,7 @@ Our yearly fee is paid in full towards our treasurer Jamie Haynes.
 
 ## [Roster](./roster.md)
 ## [Tournaments](./tournaments.md)
-## [Statistics](./stats.md)
+## [Statistics](./statistics.md)
 
 ## Contact Information
 We communicate through an open Facebook group.
