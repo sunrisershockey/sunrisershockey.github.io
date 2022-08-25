@@ -10,6 +10,7 @@ We welcome all players of all skill levels and gender, however all players must 
 Our yearly fee is paid in full towards our treasurer Jamie Haynes.
 
 ## Ice Times
+
 |Days|Time|Location|Dressing Room|Female Dressing Room|
 |:-:|:-:|:-:|:-:|:-:|
 |Tuesday|07.00 - 08.00|Stavanger Ishall Pad 2|8|7|
