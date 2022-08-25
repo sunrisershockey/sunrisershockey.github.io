@@ -33,10 +33,10 @@ plugins:
   - jekyll-sitemap
   - jekyll-remote-theme # add this line to the plugins list if you already have one
   
-header_pages:
-  - roster.md
-  - statistics.md
-  - lines.md
+#header_pages:
+#  - roster.md
+#  - statistics.md
+#  - lines.md
   
 google_analytics: G-GWDT6Z2QE4
 
