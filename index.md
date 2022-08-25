@@ -16,9 +16,17 @@ Our yearly fee is paid in full towards our treasurer Jamie Haynes.
 |Tuesday|07.00 - 08.00|Stavanger Ishall Pad 2|8|7|
 |Thursday|07.00 - 08.00|Stavanger Ishall Pad 2|8|7|
 
-## [Roster](./roster.md)
-## [Tournaments](./tournaments.md)
-## [Statistics](./statistics.md)
+## Roster
+A list of the current and historical rosters is here:
+[Roster](./roster.md)
+
+## Tournaments 
+All tournament information will be published here:
+[Tournaments](./tournaments.md)
+
+## Statistics
+Player and goalie statistics published here:
+[Statistics](./statistics.md)
 
 ## Contact Information
 We communicate through an open Facebook group.
