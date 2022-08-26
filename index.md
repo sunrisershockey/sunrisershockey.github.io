@@ -18,12 +18,12 @@ Our yearly fee is paid in full towards our treasurer Jamie Haynes.
 
 ## Roster
 A list of the current and historical rosters is here:
-* [Roster](./roster.md)
+[Roster](./roster.md)
 
 ## Tournaments & Lines
 All tournament information and lines will be published here:
-* [Tournaments](./tournaments.md)
-* [Lines](./lines.md)
+[Tournaments](./tournaments.md)
+[Lines](./lines.md)
 
 ## Statistics
 Player and goalie statistics published here:
