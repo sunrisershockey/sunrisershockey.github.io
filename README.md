@@ -1,1 +1,1 @@
-# [Stavanger Sunrisers](https://sunrisershockey.github.io)
+# [Stavanger Sunrisers official homepage](https://sunrisershockey.github.io)
