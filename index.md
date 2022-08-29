@@ -17,23 +17,18 @@ Our yearly fee is paid in full towards our treasurer Jamie Haynes.
 |Thursday|07.00 - 08.00|Stavanger Ishall Pad 2|8|7|
 
 ## Roster
-A list of the current and historical rosters is here:
-
-[Roster](./roster.md)
+A list of the current and historical rosters is here
+* [Roster](./roster.md)
 
 ## Tournaments & Lines
-All tournament information and lines will be published here:
-
-[Tournaments](./tournaments.md)
-
-[Lines](./lines.md)
+All tournament information and lines will be published here
+* [Tournaments](./tournaments.md)
+* [Lines](./lines.md)
 
 ## Statistics
-Player and goalie statistics published here:
-
-[Statistics](./statistics.md)
+Player and goalie statistics published here
+* [Statistics](./statistics.md)
 
 ## Contact Information
 We communicate through an open Facebook group
-
-[Sunrisers Ice Hockey - Stavanger](https://www.facebook.com/groups/27190567208)
+* [Sunrisers Ice Hockey - Stavanger](https://www.facebook.com/groups/27190567208)
