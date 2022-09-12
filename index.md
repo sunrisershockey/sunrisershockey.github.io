@@ -9,7 +9,9 @@ We welcome all players of all skill levels and gender, however all players must 
 ## Yearly fee
 Our yearly fee is paid in full towards our treasurer Jamie Haynes.
 
-## Ice Times
+## Ice Times 2022-2023
+
+Start date: Tuesday September 20th, 2022 @ 07:00
 
 |Days|Time|Location|Dressing Room|Female Dressing Room|
 |:-:|:-:|:-:|:-:|:-:|
@@ -19,6 +21,7 @@ Our yearly fee is paid in full towards our treasurer Jamie Haynes.
 ## Roster
 A list of the current and historical rosters is here
 * [Roster](./roster.md)
+* [Historical Rosters](./roster-legacy.md)
 
 ## Tournaments & Lines
 All tournament information and lines will be published here
