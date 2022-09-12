@@ -1,6 +1,6 @@
-## 2022 Senior Cup statistics 
+## Statistics 
 
-### Players
+### 2022 Senior Cup
 
 |Player|Position|Games Played|Goals|Assists|Points|
 |:-:|:-:|:-:|:-:|:-:|:-:|
