@@ -1,4 +1,6 @@
-## Senior Cup 2022
+## Tournaments
+
+### Senior Cup 2022
 
 Stavanger Ishall invites to the annual spring edition of the Senior Cup on 29th and 30th of April.
 
