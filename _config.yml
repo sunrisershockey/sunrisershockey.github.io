@@ -29,8 +29,8 @@ kramdown:
     disable: true
     
 plugins:
-  - jekyll-feed
-  - jekyll-sitemap
+#  - jekyll-feed
+#  - jekyll-sitemap
   - jekyll-remote-theme # add this line to the plugins list if you already have one
   
 #header_pages:
@@ -38,7 +38,7 @@ plugins:
 #  - statistics.md
 #  - lines.md
   
-google_analytics: G-GWDT6Z2QE4
+google_analytics: G-BX3SJ8F83X
 
 titles_from_headings:
   strip_title: true
