@@ -20,7 +20,7 @@ facebook_username: "groups/27190567208"
 #########################################################################################
 # theme: jekyll-theme-leap-day
 
-remote_theme: labsyspharm/just-the-docs-lsp
+remote_theme: pages-themes/leap-day@v0.2.0
 
 rss: rss
 
