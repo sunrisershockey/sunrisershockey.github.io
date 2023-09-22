@@ -9,9 +9,9 @@ We welcome all players of all skill levels and gender, however all players must 
 ## Yearly fee
 Our yearly fee is paid in full towards our treasurer Jamie Haynes.
 
-## Ice Times 2022-2023
+## Ice Times 2023-2024
 
-Start date: Tuesday September 20th, 2022 @ 07:00
+Start date: Tuesday August 15th, 2023 @ 07:00
 
 |Days|Time|Location|Dressing Room|Female Dressing Room|
 |:-:|:-:|:-:|:-:|:-:|
