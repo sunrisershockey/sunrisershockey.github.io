@@ -33,5 +33,5 @@ Player and goalie statistics published here
 * [Statistics](./statistics.md)
 
 ## Contact Information
-We communicate through an private Facebook group
+We communicate through a private Facebook group
 * [Sunrisers Ice Hockey - Stavanger](https://www.facebook.com/groups/27190567208)
