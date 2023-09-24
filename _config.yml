@@ -38,7 +38,8 @@ plugins:
 #  - statistics.md
 #  - lines.md
   
-google_analytics: G-BX3SJ8F83X
+# google_analytics: G-BX3SJ8F83X
+google_analytics: G-GWDT6Z2QE4
 
 titles_from_headings:
   strip_title: true
