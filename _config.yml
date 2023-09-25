@@ -28,10 +28,9 @@ kramdown:
   syntax_highlighter_opts:
     disable: true
     
-plugins:
+plugins: jekyll-remote-theme
 #  - jekyll-feed
 #  - jekyll-sitemap
-- jekyll-remote-theme # add this line to the plugins list if you already have one
   
 #header_pages:
 #  - roster.md
